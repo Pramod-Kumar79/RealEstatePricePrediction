@@ -1,0 +1,14 @@
+pandas
+numpy
+requests
+selenium
+webdriver-manager
+beautifulsoup4
+python-dotenv
+googlemaps
+matplotlib
+scikit-learn
+catboost
+joblib
+ipykernel
+python-docx
